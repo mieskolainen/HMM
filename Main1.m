@@ -1,7 +1,7 @@
 % Stochastic Hidden Markov Models and evaluation of sequence probability
 % with forward/backward algorithm
 %
-% Mikael Mieskolainen, 2011
+% Mikael Mieskolainen, 2010
 
 addpath ./src
 close all; clear;

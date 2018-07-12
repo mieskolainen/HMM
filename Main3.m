@@ -1,6 +1,6 @@
 % Stochastic Hidden Markov Models and Viterbi decoding
 %
-% Mikael Mieskolainen, 2011
+% Mikael Mieskolainen, 2010
 
 addpath ./src
 close all; clear;
