@@ -3,4 +3,4 @@
 
 Hidden Markov Model algorithms: Forward-Backward, Baum-Welch, Viterbi
 
-Mikael Mieskolainen, SGN-4106 Coursework / TUT, 2010
+Mikael Mieskolainen, SGN-4106 Course / TUT, 2010
