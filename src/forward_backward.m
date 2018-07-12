@@ -8,7 +8,7 @@
 %   O  = Observation sequence of size (Tx1) (values between 1 ... M)
 %
 % Output:
-%   P     =  Probability of observation sequence P(O)
+%   P     =  Probability of observing the sequence O
 %   alfa  =  NxT matrix of alpha values, P(o_1,...,o_t, q_t = i)
 %   beta  =  NxT matrix of beta values,  P(o_(t+1),...,o_T | q_t = i)
 %

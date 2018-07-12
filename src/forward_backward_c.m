@@ -2,13 +2,14 @@
 % Models with normal distributed (real valued) outputs
 %
 % Input:
-%   A       =  (N x N) Transition probability matrix, A(i,j) ~ prob from state i -> j 
+%   A       =  (N x N) Transition probability matrix,
+%              with A(i,j) ~ prob from of transition of state i to j 
 %   mu      =  Means of state outputs (N x 1)
 %   sigma2  =  Variances of state outputs (N x 1)
 %   O       =  Observation sequence (T x 1), real valued
 %
 % Output:
-%   P       =  Probability density of observation sequence P(O)
+%   P       =  Probability density value of the sequence O
 %   alfa    =  Matrix of alpha values, P(o_1, ... ,o_t, q_t = i)
 %   beta    =  Matrix of beta values,  P(o_(t+1), ... ,o_T | q_t = i)
 %
