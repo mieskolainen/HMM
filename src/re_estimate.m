@@ -4,7 +4,7 @@
 %
 % https://en.wikipedia.org/wiki/Baum-Welch_algorithm
 %
-% Mikael Mieskolainen, SGN-4106/TUT course, 2011
+% Mikael Mieskolainen, SGN-4106/TUT course, 2010
 
 function [A_new, mu_new, sigma2_new] = ...
                                  re_estimate(A, mu, sigma2, O, alfa, beta)
